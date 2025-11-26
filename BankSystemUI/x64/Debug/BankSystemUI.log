@@ -1,0 +1,29 @@
+﻿  BankSystemUI.cpp
+D:\Programming\C++ foundemantals\OOPApplication\BankSystemUI\BankSystemUI\clsString.h(40,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemUI.cpp')
+  
+D:\Programming\C++ foundemantals\OOPApplication\BankSystemUI\BankSystemUI\clsString.h(45,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemUI.cpp')
+  
+D:\Programming\C++ foundemantals\OOPApplication\BankSystemUI\BankSystemUI\clsString.h(57,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemUI.cpp')
+  
+D:\Programming\C++ foundemantals\OOPApplication\BankSystemUI\BankSystemUI\clsString.h(194,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemUI.cpp')
+  
+D:\Programming\C++ foundemantals\OOPApplication\BankSystemUI\BankSystemUI\clsString.h(325,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemUI.cpp')
+  
+D:\Programming\C++ foundemantals\OOPApplication\BankSystemUI\BankSystemUI\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemUI.cpp')
+  
+D:\Programming\C++ foundemantals\OOPApplication\BankSystemUI\BankSystemUI\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'BankSystemUI.cpp')
+  
+D:\Programming\C++ foundemantals\OOPApplication\BankSystemUI\BankSystemUI\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankSystemUI.cpp')
+  
+D:\Programming\C++ foundemantals\OOPApplication\BankSystemUI\BankSystemUI\clsBankClient.h(288,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\Programming\C++ foundemantals\OOPApplication\BankSystemUI\BankSystemUI\clsBankClient.h(353,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+D:\Programming\C++ foundemantals\OOPApplication\BankSystemUI\BankSystemUI\clsUser.h(271,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankSystemUI.vcxproj -> D:\Programming\C++ foundemantals\OOPApplication\BankSystemUI\x64\Debug\BankSystemUI.exe
