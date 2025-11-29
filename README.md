@@ -25,12 +25,12 @@ this project include a lot of features:
    
    <img width="814" height="824" alt="image" src="https://github.com/user-attachments/assets/78a91630-ac00-452d-b271-399aa52f2b11" />
 
-11) Find Client:
+10) Find Client:
     this option used to search about client.
     
    <img width="741" height="433" alt="image" src="https://github.com/user-attachments/assets/aba7fb39-f5dd-400c-bafa-95e599cf7217" />
 
-13) Transactions:
+11) Transactions:
    in this part found a lot of options because this part using in transfer amound from / to user
    1) Transactions Screen:
       <img width="515" height="282" alt="image" src="https://github.com/user-attachments/assets/00daefb5-2d7b-4e57-8668-879b3d600ce4" />
@@ -50,9 +50,11 @@ this project include a lot of features:
       
       <img width="865" height="595" alt="image" src="https://github.com/user-attachments/assets/a2e1c486-0f46-4f17-9de9-cbcd987b7c06" />
 
-11) Manage User:
-12) 
+12) Manage User:
+    
    <img width="541" height="369" alt="image" src="https://github.com/user-attachments/assets/1c448d44-3a78-42f5-8ff1-51a453672083" />
+
+13) as soon as :)
 
 
       
